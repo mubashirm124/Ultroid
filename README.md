@@ -39,6 +39,11 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/BLUE-DEVIL1134/UltroidCliTemplate&template=https://github.com/mubashirm124/Ultroid)
 
+
+## Deploy to Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fmubashirm124%2FUltroidmubashir123&envs=API_HASH%2CAPI_ID%2CHEROKU_API%2CREDIS_PASSWORD%2CREDIS_URI%2CSESSION&API_HASHDesc=You+api+hash%2C+from+my.telegram.org+or+%40ScrapperRoBot.&API_IDDesc=You+api+id%2C+from+my.telegram.org+or+%40ScrapperRoBot.&HEROKU_APIDesc=Heroku+API+token.+Mandatory+for+Heroku+Deploy...&REDIS_PASSWORDDesc=Redis+endpoint+password%2C+from+redislabs.com&REDIS_URIDesc=Redis+endpoint+URL%2C+from+redislabs.com&SESSIONDesc=Your+session+string.+Can+be+added+now%2C+or+after+deploy.+%28The+bot+will+NOT+work+without+a+session+string%21%21%29&referralCode=bovyIL)
+
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
 - [Easy Method](#local-deploy---easy-method)
